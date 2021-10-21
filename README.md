@@ -25,14 +25,15 @@
 ### My Stats
 
 <div align="center">
+
 <a href="https://github.com/AhmedKhairyM0">
 <img height="180em" width="500px" style="float: right" src="https://github-readme-stats.vercel.app/api?username=AhmedKhairyM0&show_icons=true&theme=react&include_all_commits=true" />
 </a>
-  
-     <a href="https://github.com/antonkomarev/github-profile-views-counter"><img height="20em" width="70em" src="https://komarev.com/ghpvc/?username=AhmedkhairyM0&color=red&label=Views"/></a>
 
+</div>
 
-  
+<a href="https://github.com/antonkomarev/github-profile-views-counter"><img height="20em" width="70em" src="https://komarev.com/ghpvc/?username=AhmedkhairyM0&color=red&label=Views"/></a>
+
  <!-- 
 <img height="180em" width="500px" style="float: left" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AhmedKhairyM0&theme=react&layout=compact" />
 
