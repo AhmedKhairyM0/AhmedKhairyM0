@@ -28,8 +28,7 @@
 <a href="https://github.com/AhmedKhairyM0">
 <img height="180em" width="500px" style="float: right" src="https://github-readme-stats.vercel.app/api?username=AhmedKhairyM0&show_icons=true&theme=react&include_all_commits=true" />
 </a>
- 
-  <a href="https://komarev.com/ghpvc/?username=AhmedKhairyM0&color=red"></a>  
+ ![](https://komarev.com/ghpvc/?username=AhmedKhairyM0&color=green)
 </div>
   
 
